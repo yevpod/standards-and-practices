@@ -276,12 +276,11 @@ Format:
 | Will Cusick | [Zare](https://github.com/Zare) ||
 | Will Usher | [Twinklebear](https://github.com/Twinklebear) | I have experience in C++ and some C#, and am learning Python, but am new to contributing to open source projects |
 | Xuku | [xuku] (https://github.com/xuku) | I'm new to programming; I know the basics of C++ and Python and am hoping to learn through working on projects. |
+| Yev Podgayskiy | [yevpod](https://github.com/yevpod) | I know some Ruby, but want to learn Rails and work on open source and learn skills that can actually get me a job. | <CR>
 | Zach Flanders | [zachflanders](https://github.com/zachflanders) | HTML and CSS proficient, worked my way thorugh codeacademy javascript and O'Reilly's learning PHP, MySQL, Javascript, & CSS book. Looking to learn more about program development process and be involved in real projects. |
 | Zach Thacker | [SirBraneDamuj](https://github.com/SirBraneDamuj) ||
 | Zach Kirkland | [zkirkland](https://github.com/zkirkland) | I know the basics and want to learn (a lot) more.
 | Zachary Massia | [ZachMassia](https://github.com/ZachMassia) ||
 | Zachary Richeu | [mach1723](https://github.com/mach1723) ||
 | Zuber U | [zuberuber](https://github.com/zuberuber) | I know Python(starting OOP), HTML and some CSS, beginner with PHP, JS. I have a lot of free time and i am looking forward to learn more Python, web-development and web-design. I'd also like to learn more how to write practical code, OOP paradigm and design patterns. ||
-| حبيب الامين | [phySi0](https://github.com/phySi0) | I know a fair bit, I want to learn a lot more. My priorities are Objective-C, Python (2 and 3) and C. ||
-| Yev Podgayskiy | [yevpod](https://github.com/yevpod) | I know some Ruby, but want to learn Rails and work on open source and learn skills that can actually get me a job. | <CR>
-	
+| حبيب الامين | [phySi0](https://github.com/phySi0) | I know a fair bit, I want to learn a lot more. My priorities are Objective-C, Python (2 and 3) and C. ||	
